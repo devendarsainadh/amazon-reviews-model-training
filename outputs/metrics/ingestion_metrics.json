@@ -1,0 +1,10 @@
+{
+  "dataset": "McAuley-Lab/Amazon-Reviews-2023",
+  "dataset_config": "raw_review_Electronics",
+  "split": "full",
+  "streaming": true,
+  "git_commit": "unknown",
+  "rows_written": 300000,
+  "bronze_path": "outputs/bronze_reviews",
+  "audit_log": "outputs/logs/ingestion_rejects.jsonl"
+}

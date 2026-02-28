@@ -1,0 +1,15 @@
+{
+  "auc": 0.7727272727272727,
+  "f1": 0.8155935092241384,
+  "bootstrap_accuracy_ci": {
+    "low": 0.773109243697479,
+    "high": 0.8740546218487395
+  },
+  "business_metrics": {
+    "expected_profit": 485.0,
+    "tp": 180,
+    "fp": 27,
+    "fn": 14
+  },
+  "notes": "Use temporal splits upstream to avoid leakage; for imbalanced subsets, use class-weighting or threshold tuning."
+}

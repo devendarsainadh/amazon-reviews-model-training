@@ -1,0 +1,1 @@
+{"class":"custom_transformers.TextStatsTransformer","timestamp":1772284453964,"sparkVersion":"4.1.1","uid":"TextStatsTransformer_9f7adbe27749","paramMap":{"inputCol":"review_text","outputPrefix":"txt_"},"defaultParamMap":{"inputCol":"review_text","outputPrefix":"txt_"}}

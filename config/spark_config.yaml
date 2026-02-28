@@ -1,0 +1,8 @@
+spark.sql.adaptive.enabled: true
+spark.sql.adaptive.coalescePartitions.enabled: true
+spark.sql.shuffle.partitions: 200
+spark.sql.files.maxPartitionBytes: 134217728
+spark.serializer: org.apache.spark.serializer.KryoSerializer
+spark.driver.maxResultSize: 2g
+spark.sql.parquet.compression.codec: snappy
+spark.sql.execution.arrow.pyspark.enabled: true

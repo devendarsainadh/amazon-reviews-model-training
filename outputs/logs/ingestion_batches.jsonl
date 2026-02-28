@@ -1,0 +1,6 @@
+{"batch": 0, "rows": 50000, "total_written": 50000}
+{"batch": 1, "rows": 50000, "total_written": 100000}
+{"batch": 2, "rows": 50000, "total_written": 150000}
+{"batch": 3, "rows": 50000, "total_written": 200000}
+{"batch": 4, "rows": 50000, "total_written": 250000}
+{"batch": 5, "rows": 50000, "total_written": 300000}

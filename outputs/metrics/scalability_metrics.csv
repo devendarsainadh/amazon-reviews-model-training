@@ -1,0 +1,7 @@
+experiment,partitions,fraction,train_seconds,cost_proxy
+strong,4,0.05,3.22,12.88
+strong,8,0.05,1.86,14.88
+strong,16,0.05,2.18,34.88
+weak,4,0.05,1.11,4.44
+weak,8,0.1,1.6,12.8
+weak,16,0.15000000000000002,1.89,30.24

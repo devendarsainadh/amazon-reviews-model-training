@@ -1,0 +1,35 @@
+{
+  "timestamp_utc": "2026-02-28T13:14:15.258863+00:00",
+  "sample_fraction": 0.005,
+  "cv_folds": 2,
+  "cv_parallelism": 1,
+  "models": [
+    {
+      "model": "logreg",
+      "auc": 0.7727272727272727,
+      "f1": 0.8155935092241384,
+      "accuracy": 0.8277310924369747,
+      "train_seconds": 5.39
+    },
+    {
+      "model": "random_forest",
+      "auc": 0.6918345829428304,
+      "f1": 0.732103952692188,
+      "accuracy": 0.8151260504201681,
+      "train_seconds": 3.23
+    },
+    {
+      "model": "linear_svc",
+      "auc": 0.7502343017806934,
+      "f1": 0.7818436057990955,
+      "accuracy": 0.7773109243697479,
+      "train_seconds": 4.25
+    },
+    {
+      "model": "sklearn_logreg",
+      "auc": 0.9237347703842548,
+      "f1": 0.9023255813953488,
+      "accuracy": 0.8235294117647058
+    }
+  ]
+}
